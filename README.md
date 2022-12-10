@@ -1,3 +1,10 @@
+# Game Trailer
+Please click the following link to watch Journey Through Mordor's trailer: 
+<br> 
+https://www.youtube.com/watch?v=td1vKdk4mZs
+<br>
+
+
 # Building the game 
 Navigate to the root directory (with the pom.xml file) and type in the terminal:
 <br>
